@@ -1,19 +1,15 @@
-p {
+p.sec {
   
   background-color: MidnightBlue;
+  
+  color: cyan;
   
   border-style: dotted;
   border-width: 2px;
   
 }
 
-p.sec {
-  
-  text-align: center;
-  background-color: cyan;
-}
-
-#h101 {
+h1 {
   
   text-align: center;
 }
