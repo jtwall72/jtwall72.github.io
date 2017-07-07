@@ -1,8 +1,19 @@
 p {
   
-  background-color: red;
+  background-color: MidnightBlue;
   
   border-style: dotted;
   border-width: 2px;
   
+}
+
+p.sec {
+  
+  text-align: center;
+  background-color: cyan;
+}
+
+#h101 {
+  
+  text-align: center;
 }
