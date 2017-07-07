@@ -14,8 +14,7 @@ h1 {
   text-align: center;
 }
 
-table {
-  
-  border: solid 1px;
-  
+table, th, tr{
+  padding: 2px;
+  color: black;
 }
