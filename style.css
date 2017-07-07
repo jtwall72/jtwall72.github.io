@@ -14,7 +14,14 @@ h1 {
   text-align: center;
 }
 
-table, th, tr{
-  padding: 2px;
+td.langs{
+  padding: 3px;
   color: black;
+  background-color: Gainsboro;
+}
+
+th.langs{
+  padding: 3px;
+  color: black;
+  background-color: AntiqueWhite;
 }
