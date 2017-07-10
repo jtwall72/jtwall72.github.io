@@ -22,7 +22,6 @@ p.sec {
   color: cyan;
   border-style: dotted;
   border-width: 2px;
-  
 }
 
 /* This is used for the big blocks in the middle of my webpage. */
@@ -31,8 +30,6 @@ p.cen {
   border: double;
   margin-right: 10em;
   margin-left: 10em;
-
-  
 }
 
 td.langs {
@@ -45,4 +42,14 @@ th.langs {
   padding: 3px;
   color: black;
   background-color: AntiqueWhite;
+}
+
+#centab {
+  width: 80%;
+  margin: auto;
+}
+
+hr {
+  height: 2px;
+  color: red;
 }
