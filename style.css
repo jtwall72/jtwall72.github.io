@@ -25,3 +25,8 @@ th.langs{
   color: black;
   background-color: AntiqueWhite;
 }
+
+#me {
+  height: 320px;
+  width: 480px;
+}
