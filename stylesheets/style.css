@@ -50,7 +50,8 @@ th.langs {
 }
 
 hr {
-  height: 5px;
+  height: 2px;
   color: black;
   background-color: black;
+  border-color: black;
 }
