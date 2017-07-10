@@ -14,13 +14,13 @@ h1 {
   text-align: center;
 }
 
-td.langs{
+td.langs {
   padding: 3px;
   color: black;
   background-color: Gainsboro;
 }
 
-th.langs{
+th.langs {
   padding: 3px;
   color: black;
   background-color: AntiqueWhite;
@@ -29,5 +29,6 @@ th.langs{
 #me {
   height: 300px;
   width: 200px;
+  display: block;
   margin: auto;
 }
