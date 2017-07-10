@@ -5,6 +5,7 @@ h1 {
 }
 
 p {
+  text-align: center;
   border: double;
   margin-right: 10em;
   margin-left: 10em;
