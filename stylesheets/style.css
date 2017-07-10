@@ -4,6 +4,13 @@ h1 {
   text-align: center;
 }
 
+p {
+  
+  text-align: center;
+  border: double;
+  
+}
+
 /* This is how you select classes in CSS
    In HTML this is denoted as class="sec" within the tag*/
 p.sec {
