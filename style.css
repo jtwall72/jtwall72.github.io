@@ -1,17 +1,18 @@
-p.sec {
-  
-  background-color: MidnightBlue;
-  
-  color: cyan;
-  
-  border-style: dotted;
-  border-width: 2px;
-  
-}
-
+/* This how you add style elements to a regular html tag */
 h1 {
   
   text-align: center;
+}
+
+/* This is how you select classes in CSS
+   In HTML this is denoted as class="sec" within the tag*/
+p.sec {
+  
+  background-color: MidnightBlue;
+  color: cyan;
+  border-style: dotted;
+  border-width: 2px;
+  
 }
 
 td.langs {
@@ -26,6 +27,8 @@ th.langs {
   background-color: AntiqueWhite;
 }
 
+/* This is how you select unique elements in CSS 
+   In HTML this is denoted as id="me"*/
 #me {
   height: 300px;
   width: 200px;
