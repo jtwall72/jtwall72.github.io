@@ -7,8 +7,8 @@ h1 {
 /* This is how you select unique elements in CSS 
    In HTML this is denoted as id="me"*/
 #me {
-  height: 300px;
-  width: 200px;
+  height: 200px;
+  width: 300px;
   display: block;
   margin: auto;
 }
