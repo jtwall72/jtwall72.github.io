@@ -33,28 +33,21 @@ p.cen {
 }
 
 td.langs {
-  padding: 3px;
+  padding: 4px;
   color: black;
   background-color: Gainsboro;
 }
 
 th.langs {
-  padding: 3px;
+  padding: 4px;
   color: black;
   background-color: AntiqueWhite;
 }
 
-#centab {
-  width: 80%;
-  margin: auto;
-}
-
-hr {
-  height: 1px;
-  color: black;
-  background-color: black;
-  border: 0;
-  margin: 1px;
+ul, li {
+  width: 70%;
+  margin-right: 10em;
+  margin-left: 19em;
 }
 
 h2 {
